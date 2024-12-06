@@ -4,4 +4,4 @@ This python script finds all open reading frames in a DNA sequence from an input
 
 Upon running the program, user will be asked to input a minimum ORF length as well as the name of the FASTA file to be parsed. 
 
-It will return all ORFs found.
+It will return all ORFs found in a separate output file.
